@@ -1,6 +1,6 @@
 {
   "name": "@arabold/docs-mcp-server",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "MCP server for fetching and searching documentation",
   "type": "module",
   "bin": {
@@ -147,7 +147,7 @@
     "vitest": "^3.2.4"
   },
   "engines": {
-    "node": "=22.0.0"
+    "node": ">=22"
   },
   "overrides": {
     "npm": "10.9.3"
